@@ -1,5 +1,4 @@
 ###### tags: `Interview material`
-[TOC]
 # Leetcode Easy
 ### 1. Two Sum
 #### idea
