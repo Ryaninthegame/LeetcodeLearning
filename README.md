@@ -2,7 +2,6 @@
 我的 Leetcode 學習歷程
 Start from 2021/07/05
 ## Easy
-### Done
 1. Two Sum
 7. Reverse Integer
 9. Palindrome Number
@@ -100,7 +99,6 @@ Start from 2021/07/05
 766. Toeplitz Matrix
 
 ## Medium
-### Done
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
 11. Container With Most Water
@@ -174,5 +172,4 @@ Start from 2021/07/05
 1143. Longest Common Subsequence
 
 ## Hard
-### Done
 127. Word Ladder
