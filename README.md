@@ -1,5 +1,4 @@
 # LeetcodeLearning
-我的 Leetcode 學習歷程
 Start from 2021/07/05
 ## Easy
 1. Two Sum
